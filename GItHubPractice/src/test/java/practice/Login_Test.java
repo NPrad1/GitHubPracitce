@@ -27,6 +27,7 @@ public class Login_Test {
 		String URL = prop.getProperty("url");
 		driver.get(URL);
 		System.out.println("Successfully launched");
+		System.out.println("Successfully");
 		driver.quit();
 		
 		
