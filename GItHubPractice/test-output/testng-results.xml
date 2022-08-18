@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-18T15:56:36 IST" name="Default suite" finished-at="2022-08-18T15:56:41 IST" duration-ms="4874">
+    <groups>
+    </groups>
+    <test started-at="2022-08-18T15:56:36 IST" name="Default test" finished-at="2022-08-18T15:56:41 IST" duration-ms="4874">
+      <class name="practice.Login_Test">
+        <test-method signature="actitime_Test()[pri:0, instance:practice.Login_Test@4d02f94e]" started-at="2022-08-18T15:56:36 IST" name="actitime_Test" finished-at="2022-08-18T15:56:41 IST" duration-ms="4834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actitime_Test -->
+      </class> <!-- practice.Login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
